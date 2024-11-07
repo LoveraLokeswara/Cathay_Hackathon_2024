@@ -1,0 +1,111 @@
+[
+   {
+      "name":"Arirang Korean Restaurant",
+      "type":"dining",
+      "location":[
+        {
+            "area": "Wan Chai",
+            "address": "3/F, W Square, 314-324 Hennessy Road, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-arirang-korean-restaurant-wan-chai-korean-korean-bbq-r105326"
+        }
+      ],
+      "cuisine":"Korean",
+      "description":"The first Korean restaurant to open in Hong Kong in 1964, Arirang has evolved over five decades to offer a unique décor combining traditional and modern Korean elements, art and craft, and fine art. The menu based on a great selection of traditional favourites, as well as seasonal dishes and other specialities in keeping with evolving trends, allowing diners to enjoy an authentic taste of Korea. A modern barbecue system provides a smoke- and odour-free environment for a comfortable Korean barbecue experience. Come to Arirang for the best that Korean cuisine has to offer."
+   },
+   {
+      "name":"Beijing Home",
+      "type":"dining",
+      "location":[
+         {
+            "area": "Wan Chai",
+            "phone": "+852 2811 2996",
+            "address": "704 of 7/F & 802 of 8/F, Hopewell Centre, 183 Queen's Road East, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-beijing-home-wan-chai-beijing-soup-r557731"
+        },
+        {
+            "area": "Tsim Sha Tsui",
+            "phone": "+852 3462 2518",
+            "address": "8/F, BCC Building, 25-31 Carnarvon Road, Tsim Sha Tsui, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-beijing-home-tsim-sha-tsui-beijing-wonton-dumpling-r608580"
+        }
+      ],
+      "cuisine":"Chinese",
+      "description":"Presented on the theme of 'Ancient City', you will be taken back to Beijing's hometown to enjoy the 'Beijing official cuisine'. Venues are well designed suitable for a variety of private parties or corporate events. It is a unique Chinese wedding, dinner or cocktail parties venue with the theme of 'Ancient City'. There are rooms with different themes which are definitely the first choice for private gatherings for friends and family. They could also be equipped with projectors, screens and audio equipment to create a diversified activity plan for you."
+   },
+   {
+      "name":"Gonpachi",
+      "type":"dining",
+      "location":[
+        {
+            "area": "Tsim Sha Tsui",
+            "phone": "+852 2727 1957",
+            "address": "28/F, One Peking, 1 Peking Road, Tsim Sha Tsui, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-gonpachi-tsim-sha-tsui-japanese-sushi-sashimi-r782585"
+        }
+      ],
+      "cuisine":"Japanese",
+      "description":"Gonpachi, an izakaya chain from Japan, offers a rustic and authentic atmosphere that transports guests to the Edo era. Immerse yourself in savoury delicacies such as fresh sashimi, sushi rolls, sumiyaki chargrill skewers, and the signature homemade soba while experiencing the unique world of Japanese izakaya culture. The One Peking branch boasts an invincible panoramic view of Victoria Harbour, as well as The Kabuki Sushi Omakase dining section, which offers a premium dining experience for guests."
+   },
+   {
+    "name":"aera",
+    "type":"dining",
+    "location":[
+        {
+            "area": "Wan Chai",
+            "phone": "+852 2389 9901",
+            "address": "G/F, 6 Stewart Road, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-aera-wan-chai-western-fine-dining-r768645"
+        }
+    ],
+    "cuisine":"Western",
+    "description":"aera is a contemporary restaurant specialising in new Nordic cuisine. Its name means honour and era in Scandinavian and reflects its dedication to honouring Hong Kong’s talented young chefs. Led by restaurant partner and head chef Chevalier Yau, the culinary team draws inspiration from the New Nordic cuisine philosophy, which emphasises sustainability, ecological awareness and ethical considerations in food production. The team takes local, natural ingredients and elevates them through traditional Nordic cooking techniques such as pickling, smoking, air-drying and fermentation to offer innovative and delicious dishes that celebrate the best of what New Nordic cuisine has to offer."
+ },
+ {
+    "name":"Golden Valley",
+    "type":"dining",
+    "location":[
+        {
+            "area": "Wan Chai",
+            "phone": "+852 2961 3330",
+            "address": "1/F, The Emperor Hotel, 373 Queen's Road East, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-golden-valley-wan-chai-guangdong-dim-sum-r553961"
+        }
+    ],
+    "cuisine":"Cantonese",
+    "description":"Located in The Emperor Hotel, Golden Valley intertwines Cantonese cuisine with a dash of Sichuan and Chongqing's spicy and aromatic twist. The recipient of one Michelin Star for seven years, the restaurant offers a refreshing yet traditional take on Chinese cuisine in a classically designed setting with a relaxing ambiance. Recommended dishes include Double Boiled Pig’s Lung Soup with Ground Almond and Mandarin Fish with Sichuan Sun-dried Chili. "
+ },
+ {
+    "name":"Hau Tak Restaurant",
+    "type":"dining",
+    "location":[
+        {
+            "area": "Wan Chai",
+            "phone": "+852 9888 9153",
+            "address": "G/F-2/F, 454-456 Lockhart Road, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-hau-tak-restaurant-causeway-bay-guangdong-dim-sum-r819219"
+        }
+    ],
+    "cuisine":"Cantonese",
+    "description":"Hau Tak Restaurant is committed to pursuing the essence of classic Cantonese cuisine, using ingredients to tell its story and history. By experiencing the taste of tradition in its dishes, the restaurant hopes to collaborate with you over time to pass on this precious culinary heritage so that you can become a part of the story. Working hand in hand with his boss for 20 years, Chef Lau selects fresh ingredients daily to create dishes that provide an unparalleled flavourful feast. Don't miss a taste of the partridge porridge, crispy fried chicken and baked stuffed crab – each dish meticulously made through a complex culinary process."
+ },
+ {
+    "name":"Jom",
+    "type":"dining",
+    "location":[
+        {
+            "area": "Wan Chai",
+            "phone": "+852 6426 3084",
+            "address": "Shop A, 7 Tai Wong Street East, Wanchai, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-jom-wan-chai-malaysian-r737081"
+        },
+        {
+            "area": "Sheung Wan",
+            "phone": "+852 2809 2868",
+            "address": "G/F, No. 5, On Wing Building, 79-83 Wing Lok Street, Sheung Wan, Hong Kong SAR",
+            "booking_link": "https://www.openrice.com/en/hongkong/r-jom-sheung-wan-malaysian-r866007"
+        }
+    ],
+    "cuisine":"Singaporean",
+    "description":"Jom is a modern restaurant serving Singaporean favourites alongside authentic condiments made to traditional home recipes. Named after the Malay word for 'Come, let’s go!', the restaurant aims to draw an energetic crowd who appreciates big flavours alongside culinary nostalgia. The menu and its accompanying selection of sauces and sambals are inspired by the childhood meals of founder Jordan Lee, who craved the unpretentious food of the hawker stalls of his native homeland. Designed with community in mind, Jom allows guests to connect over comforting plates of Singaporean food in a comfortable, friendly setting."
+ }
+]
